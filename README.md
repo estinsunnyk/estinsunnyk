@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Estin Sunny Koothoor
+# 👋 Hi, I'm Estin Sunny
 
 💻 **Senior Frontend Engineer**  
 🚀 **Skilled in building scalable and modern web applications**
